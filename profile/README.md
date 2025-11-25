@@ -1,4 +1,4 @@
-# Dewa Team - KoTA 106
+# Dewa Team - KoTA 310
 ### *Where deadlines fear us (but we fear the examiners more).*
 
 
@@ -80,4 +80,4 @@ To deadlines, for providing urgency of a… different kind.
 If you find bugs, remember:  
 **They’re not bugs! Just unexpected features shaped by academic survival.**
 
-© KoTA-106, IF Polban, 2023.
+© KoTA-310, IF Polban, 2023.
